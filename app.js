@@ -1,1 +1,0 @@
-console.log("Hello Human! Welcome to git.")

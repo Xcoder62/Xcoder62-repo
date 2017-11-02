@@ -1,0 +1,14 @@
+
+body{
+  margin-top: 60px;
+  background-color: silver !important; 
+}
+.text-muted {
+  font-weight:100; !important;
+  font-size:100px;
+  font-family:'Josefin Sans'
+}
+.title-logo{
+  margin-top:20px;
+}
+
